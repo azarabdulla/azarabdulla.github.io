@@ -16,9 +16,6 @@ I have Python3.10 based Command&Control Framework and Reverse Shell System own d
 
 
 ```markdown
-Syntax highlighted code block
-
-
 
   ___   ______  ___  ______                   
  / _ \ |___  / / _ \ | ___ \                  
@@ -34,14 +31,13 @@ Syntax highlighted code block
 |  _  || ___ \ | | | | | | |    | |    |  _  |
 | | | || |_/ / |/ /| |_| | |____| |____| | | |
 \_| |_/\____/|___/  \___/\_____/\_____/\_| |_/
-                                              
-                                              
+                                                                          
 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### In the End
 
 You can contact with me and read my articles, posts via [LinkedIn Profile](https://www.linkedin.com/in/azarabdulla/). Do not forget to connect with me.
 
