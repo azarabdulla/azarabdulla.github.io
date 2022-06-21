@@ -5,7 +5,14 @@ Me, Azar Abdulla, I'm a Applied Mathematics and Computer Sciences student at Bak
 ### What I'm doing?
 
 I'm trying to develop my Enterprise Networking, Penetration Testing, Python Programming and Digital Forensics skills.
-As an ethical hacker and cyber security technician, I spend all of my life in Ethical Hacking Platforms like TryHackMe, VulnHub.
+As an Entry-Level Cyber Security Analyst, I perform penetration testing in different training platforms and complete 
+defensive tasks like malware analysis, reverse engineering and traffic analysis.
+
+I have Python3.10 based Command&Control Framework and Reverse Shell System own developed and it have following features:
+- Windows Defender Evasion
+- Encrypted Agent-Bot Communication
+- Registry Modification and Persistence
+- Windows System Service Executables Template and etc.
 
 
 ```markdown
@@ -36,7 +43,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-You can contact with me and read my articles, posts via [LinkedIn Profile][(https://github.com/azarabdulla/azar/settings/pages](https://www.linkedin.com/in/azarabdulla/)). Do not forget to connect with me.
+You can contact with me and read my articles, posts via [LinkedIn Profile].(https://www.linkedin.com/in/azarabdulla/). Do not forget to connect with me.
 
 ### Support or Contact
 
