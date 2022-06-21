@@ -30,18 +30,13 @@ Syntax highlighted code block
                                               
                                               
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azarabdulla/azar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can contact with me and read my articles, posts via [LinkedIn Profile][(https://github.com/azarabdulla/azar/settings/pages](https://www.linkedin.com/in/azarabdulla/)). Do not forget to connect with me.
 
 ### Support or Contact
 
