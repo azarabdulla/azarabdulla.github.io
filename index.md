@@ -43,7 +43,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-You can contact with me and read my articles, posts via [LinkedIn Profile].(https://www.linkedin.com/in/azarabdulla/). Do not forget to connect with me.
+You can contact with me and read my articles, posts via [LinkedIn Profile](https://www.linkedin.com/in/azarabdulla/). Do not forget to connect with me.
 
 ### Support or Contact
 
