@@ -8,6 +8,7 @@ I'm an entry-level cyber security analyst,ethical hacker and network administrat
 Today, I'm trying to enlarge my Enterprise Networking, (Routing Switching) and Network Security skills.
 I also sophisticated with C2 Frameworks, I have own Python3.10-based C2 Framework targets Windows machines.
 
+Malware Analysis, Reverse Engineering and Digital Forensics are in my focus space also.
 
 
 ```markdown
