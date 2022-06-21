@@ -1,18 +1,13 @@
-## Welcome to my blog!
+## Welcome to my Info!
 
-Me, Azar Abdulla, I'm a Applied Mathematics and Computer Sciences student at Baku State University.
+Hey, My name is Azar Abdulla, I'm a Applied Mathematics and Computer Sciences student at Baku State University.
 
 ### What I'm doing?
 
-I'm trying to develop my Enterprise Networking, Penetration Testing, Python Programming and Digital Forensics skills.
-As an Entry-Level Cyber Security Analyst, I perform penetration testing in different training platforms and complete 
-defensive tasks like malware analysis, reverse engineering and traffic analysis.
+I'm an entry-level cyber security analyst,ethical hacker and network administrator.
+Today, I'm trying to enlarge my Enterprise Networking, (Routing Switching) and Network Security skills.
+I also sophisticated with C2 Frameworks, I have own Python3.10-based C2 Framework targets Windows machines.
 
-I have Python3.10 based Command&Control Framework and Reverse Shell System own developed and it have following features:
-- Windows Defender Evasion
-- Encrypted Agent-Bot Communication
-- Registry Modification and Persistence
-- Windows System Service Executables Template and etc.
 
 
 ```markdown
