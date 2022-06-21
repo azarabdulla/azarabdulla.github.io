@@ -1,25 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to my blog!
 
-You can use the [editor on GitHub](https://github.com/azarabdulla/azar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Me, Azar Abdulla, I'm a Applied Mathematics and Computer Sciences student at Baku State University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I'm doing?
 
-### Markdown
+I'm trying to develop my Enterprise Networking, Penetration Testing, Python Programming and Digital Forensics skills.
+As an ethical hacker and cyber security technician, I spend all of my life in Ethical Hacking Platforms like TryHackMe, VulnHub.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+  ___   ______  ___  ______                   
+ / _ \ |___  / / _ \ | ___ \                  
+/ /_\ \   / / / /_\ \| |_/ /                  
+|  _  |  / /  |  _  ||    /                   
+| | | |./ /___| | | || |\ \                   
+\_| |_/\_____/\_| |_/\_| \_|                  
+                                              
+                                              
+  ___  ____________ _   _ _      _       ___  
+ / _ \ | ___ \  _  \ | | | |    | |     / _ \ 
+/ /_\ \| |_/ / | | | | | | |    | |    / /_\ \
+|  _  || ___ \ | | | | | | |    | |    |  _  |
+| | | || |_/ / |/ /| |_| | |____| |____| | | |
+\_| |_/\____/|___/  \___/\_____/\_____/\_| |_/
+                                              
+                                              
+
+
 
 **Bold** and _Italic_ and `Code` text
 
